@@ -7,13 +7,13 @@ Also two vscode templates will be avaiable here but in order to use them the use
 
 ## 1º step: Download Visual Studio
 
-Go to ![this link](https://visualstudio.microsoft.com/vs/) to download the latest version of visual studio community edition
+Go to [this link](https://visualstudio.microsoft.com/vs/) to download the latest version of visual studio community edition
 
 When installing, check the c++ development kit in the addons, as it is necessary
  
 ## 2º step: Download the libraries
 
-Download ![GLFW binaries](http://www.glfw.org/), ![GLEW binaries](http://glew.sourceforge.net/index.html) and ![GLM](https://github.com/g-truc/glm/releases/tag/0.9.9.8), or just download the correct zips in this repository located in the folder **Binaries**.
+Download [GLFW binaries](http://www.glfw.org/), [GLEW binaries](http://glew.sourceforge.net/index.html) and [GLM](https://github.com/g-truc/glm/releases/tag/0.9.9.8), or just download the correct zips in this repository located in the folder **Binaries**.
 
 Then, place the content of the zips in a folder well located because they're going to be used from there.
 
